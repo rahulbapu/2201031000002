@@ -1,0 +1,29 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.swimming-pool-icw {
+  width: 100%;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+}
+.swimming-pool-icw .whatsapp-image-2024-02-29-at-1145-1-5Cb {
+  width: 144rem;
+  height: 102.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}

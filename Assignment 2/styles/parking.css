@@ -1,0 +1,74 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.parking-YHD {
+  box-sizing: border-box;
+  padding: 6.5rem 5rem 6.5rem 69.1rem;
+  width: 100%;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/whatsapp-image-2024-02-28-at-2136-1-bg.png');
+  background-color: #ffffff;
+}
+.parking-YHD .frame-5-Gj1 {
+  width: 100%;
+  height: 4.4rem;
+  display: flex;
+  align-items: center;
+}
+.parking-YHD .frame-5-Gj1 .home-pkX {
+  margin-right: 3.2rem;
+  font-size: 3.6rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.parking-YHD .frame-5-Gj1 .facitites-AJb {
+  margin-right: 3.5rem;
+  font-size: 3.6rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.parking-YHD .frame-5-Gj1 .rooms-i5D {
+  margin-right: 3.8rem;
+  font-size: 3.6rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.parking-YHD .frame-5-Gj1 .contact-us-rhD {
+  font-size: 3.6rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
